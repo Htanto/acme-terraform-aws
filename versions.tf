@@ -1,7 +1,7 @@
 terraform {
 
   cloud {
-    organization = "acme-hendra"
+    organization = "htanto-corp"
 
     workspaces {
       name = "acme-terraform-aws"
